@@ -3,7 +3,10 @@
   
 <body>
 
-  <h1 style="text-align: center;">📱 PlayStore UI Clone (Android)</h1>
+ <h1 style="text-align: center;">
+  📱 PlayStore UI Clone (Android)
+</h1>
+
 
   <p>A simple Android application that mimics the basic layout and functionality of the Google Play Store using <strong>Fragments</strong>, <strong>RecyclerViews</strong>, and <strong>Material Design components</strong>.</p>
 
