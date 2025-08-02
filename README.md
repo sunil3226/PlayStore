@@ -30,6 +30,16 @@
     <li>Run on an emulator or real device</li>
   </ol>
 
+Feel free to reach out if you want to contribute or have suggestions!
+
+- **Author:** Sunil  
+- **GitHub:** [Sunil3226](https://github.com/Sunil3226)  
+
+---
+
+Thank you for checking out my  PlayStore UI Clone App!
+
+<h2 align="center">✨ Happy Learning!</h2>
 
 </body>
 </html>
